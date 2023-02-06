@@ -1,9 +1,7 @@
-// package com.hellocodeclub.tictactoe;
 import java.util.*;
 
 import java.util.Random;
 
-// package com.hellocodeclub.tictactoe;
 
 import java.util.Scanner;
 
