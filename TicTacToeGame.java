@@ -134,7 +134,6 @@ class Board {
     }
 
 }
-// package com.hellocodeclub.tictactoe;
  class GameResolver {
 
     public static GameState calculateGameState(int[][] board, Board.Cell position){
